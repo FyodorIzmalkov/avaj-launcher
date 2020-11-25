@@ -11,7 +11,7 @@ java lsandor.simulator.Simulator scenario.txt
 
 if [ -e simulation.txt ]
 then
-    printf "Simulation.txt file was created."
+    printf "simulation.txt file was created."
 else
     printf "Error: simulation.txt file was not created"
 fi

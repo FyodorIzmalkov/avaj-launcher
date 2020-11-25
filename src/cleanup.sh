@@ -1,2 +1,3 @@
+#!/usr/bin/env bash
 
-rm -rf . *.class
+find . -name "*.class" -type f -delete

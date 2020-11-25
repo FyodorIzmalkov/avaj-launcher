@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1960efa3-5d40-444f-991e-dfb5dc83b192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/compile.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cleanup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compile.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenario.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cleanup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/cleanup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compile.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/compile.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/Baloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/Baloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/Coordinates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/Helicopter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/JetPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/JetPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lsandor/simulator/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/simulator/Simulator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lsandor/tower/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/tower/Tower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simulation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/simulation.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +51,43 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/bonus/encryptor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Fyodor\Projects\avaj_g\src" />
+      <recent name="C:\Users\Fyodor\Projects\avaj_g\src\lsandor\simulator" />
+      <recent name="C:\Users\Fyodor\Projects\avaj_g" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fyodor\Projects\avaj_g\src\bonus\encryptor" />
       <recent name="C:\Users\Fyodor\Projects\avaj_g" />
       <recent name="C:\Users\Fyodor\Projects\avaj_g\src\lsandor" />
       <recent name="C:\Users\Fyodor\Projects\avaj-launcher\src\good_scenarios_for_test" />
       <recent name="C:\Users\Fyodor\Projects\avaj-launcher\src\bad_scenarios_for_test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Encryptor">
+    <configuration name="Encryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bonus.encryptor.Encryptor" />
+      <module name="avaj-launcher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bonus.encryptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsandor.weather.main" />
       <module name="avaj-launcher" />
@@ -99,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Encryptor" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -116,7 +134,7 @@
       <updated>1606241618066</updated>
       <workItem from="1606241619234" duration="7638000" />
       <workItem from="1606251819442" duration="3752000" />
-      <workItem from="1606306396309" duration="3877000" />
+      <workItem from="1606306396309" duration="13224000" />
     </task>
     <servers />
   </component>
@@ -124,98 +142,61 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="760" y="274" key="#Project_Structure" timestamp="1606313781038">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1606313781038" />
     <state x="1044" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606311854948">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1044" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1606311854948" />
+    <state x="1042" y="401" key="#com.intellij.ide.util.MemberChooser" timestamp="1606321349137">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1042" y="401" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1606321349137" />
+    <state x="1143" y="385" key="FileChooserDialogImpl" timestamp="1606314632287">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1143" y="385" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606314632287" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1606314592182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592182" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1606314592182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592182" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1606314592182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592182" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1606314592182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592182" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1606314592183">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592183" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1606314592182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592182" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1606314592182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592182" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1606314592183">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606314592183" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1606314635909">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606314635909" />
     <state x="1266" y="349" width="585" height="592" key="find.popup" timestamp="1606307057816">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1266" y="349" width="585" height="592" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606307057816" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>avaj-launcher</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8.0_211</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

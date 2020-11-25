@@ -8,6 +8,7 @@ import lsandor.exception.WrongUsageException;
 import lsandor.tower.WeatherTower;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +20,7 @@ public class Simulator {
     private static final int LONGITUDE = 2;
     private static final int LATITUDE = 3;
     private static final int HEIGHT = 4;
+    public static final String FILE_NAME = "simulation.txt";
 
     public static void main(String[] args) {
 
@@ -59,12 +61,16 @@ public class Simulator {
             }
             reader.close();
 
+            File file = new File(FILE_NAME);
+            file.createNewFile();
+
             for (int i = 0; i < numberOfSimulations; i++) {
                 weatherTower.changeWeatherForAllAircraft();
             }
 
         } catch (Exception exception) {
-            System.err.println(exception.getMessage());
+            System.err.println("Error " + exception.toString());
+            System.exit(1);
         }
     }
 

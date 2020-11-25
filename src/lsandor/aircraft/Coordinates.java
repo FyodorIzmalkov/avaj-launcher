@@ -24,4 +24,12 @@ public class Coordinates {
         return this.height;
     }
 
+    @Override
+    public String toString() {
+        return "Coordinates{" +
+                "longitude=" + longitude +
+                ", latitude=" + latitude +
+                ", height=" + height +
+                '}';
+    }
 }

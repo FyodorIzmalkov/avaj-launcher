@@ -7,146 +7,176 @@ Tower says: Helicopter#H3(6) registered to weather tower.
 Tower says: Baloon#B3(7) registered to weather tower.
 Tower says: JetPlane#J2(8) registered to weather tower.
 Tower says: Helicopter#H4(9) registered to weather tower.
-Baloon#B1(1): I hate fog, I cannot see anything at all!
-Baloon#B2(2): It's snowing! We should be more careful!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H1(4): This rain is so depressing...
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): It's so hot!
-Baloon#B3(7): There is some sun, let's enjoy good weather!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): Winter is coming!
-Baloon#B1(1): It's snowing! We should be more careful!
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H1(4): This rain is so depressing...
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): Winter is coming!
-Baloon#B3(7): It's snowing! We should be more careful!
-JetPlane#J2(8): Gamn fog!
-Helicopter#H4(9): It's so hot!
-Baloon#B1(1): I hate fog, I cannot see anything at all!
+Baloon#B1(1): IT IS RAINING WATER WATER EVERYWHERE!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H1(4): Ohhhh I like sun!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I like sun!
+Baloon#B3(7): IT IS HOT TOO HOT TO FLY!
+JetPlane#J2(8): It is too snowy!
+Helicopter#H4(9): Ohhhh I think fog is just fine!
+Baloon#B1(1): IT IS FOG I CANT SEE A METER AHEAD!
+Baloon#B2(2): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H1(4): Ohhhh I think fog is just fine!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I like sun!
+Baloon#B3(7): IT IS HOT TOO HOT TO FLY!
+JetPlane#J2(8): It is too snowy!
+Helicopter#H4(9): Ohhhh I like sun!
+Baloon#B1(1): IT IS RAINING WATER WATER EVERYWHERE!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too foggy!
+Helicopter#H1(4): Ohhhh I like sun!
+Helicopter#H2(5): Ohhhh I think fog is just fine!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+Baloon#B3(7): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J2(8): It is too foggy!
+Helicopter#H4(9): Ohhhh I like sun!
+Baloon#B1(1): IT IS RAINING WATER WATER EVERYWHERE!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too foggy!
+Helicopter#H1(4): Ohhhh I hate rain!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I hate rain!
+Baloon#B3(7): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J2(8): It is too foggy!
+Helicopter#H4(9): Ohhhh I think fog is just fine!
+Baloon#B1(1): IT IS FOG I CANT SEE A METER AHEAD!
+Baloon#B1(1) landing. Coordinates{longitude=2, latitude=3, height=0}
 Tower says: Baloon#B1(1) unregistered from weather tower.
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): It's so hot!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): Winter is coming!
-Baloon#B3(7): It's snowing! We should be more careful!
-JetPlane#J2(8): Gamn fog!
-Helicopter#H4(9): I see no ground!
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): This rain is so depressing...
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): It's so hot!
-Baloon#B3(7): It's rain! It messed up my baloon!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): I see no ground!
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H1(4): It's so hot!
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): This rain is so depressing...
-Baloon#B3(7): I hate fog, I cannot see anything at all!
-Tower says: Baloon#B3(7) unregistered from weather tower.
-JetPlane#J2(8): Watch out for lightnings!
-Helicopter#H4(9): I see no ground!
-Baloon#B2(2): It's rain! It messed up my baloon!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): Winter is coming!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): This rain is so depressing...
-Baloon#B2(2): It's snowing! We should be more careful!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): It's so hot!
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): Watch out for lightnings!
-Helicopter#H4(9): Winter is coming!
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): Gamn fog!
-Helicopter#H1(4): This rain is so depressing...
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): Watch out for lightnings!
-Helicopter#H4(9): Winter is coming!
-Baloon#B2(2): It's rain! It messed up my baloon!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H1(4): Winter is coming!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): This rain is so depressing...
-JetPlane#J2(8): Gamn fog!
-Helicopter#H4(9): Winter is coming!
-Baloon#B2(2): It's snowing! We should be more careful!
-JetPlane#J1(3): Gamn fog!
-Helicopter#H1(4): It's so hot!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): It's so hot!
-Baloon#B2(2): It's rain! It messed up my baloon!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): I see no ground!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): Gamn fog!
-Helicopter#H4(9): This rain is so depressing...
-Baloon#B2(2): It's snowing! We should be more careful!
-Tower says: Baloon#B2(2) unregistered from weather tower.
-JetPlane#J1(3): Gamn fog!
-Helicopter#H1(4): Winter is coming!
-Tower says: Helicopter#H1(4) unregistered from weather tower.
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): Gamn fog!
-Helicopter#H4(9): Winter is coming!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too foggy!
+Helicopter#H1(4): Ohhhh I hate rain!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I hate rain!
+Baloon#B3(7): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J2(8): It is too rainy!
+Helicopter#H4(9): Ohhhh I think snow is what we need now!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H1(4): Ohhhh I hate rain!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+Baloon#B3(7): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J2(8): It is too foggy!
+Helicopter#H4(9): Ohhhh I think snow is what we need now!
+Baloon#B2(2): IT IS SNOWING WHAT SHOULD WE DO NOW?!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H1(4): Ohhhh I hate rain!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+Baloon#B3(7): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J2(8): It is too foggy!
+Helicopter#H4(9): Ohhhh I think snow is what we need now!
+Baloon#B2(2): IT IS SNOWING WHAT SHOULD WE DO NOW?!
+JetPlane#J1(3): It is too foggy!
+Helicopter#H1(4): Ohhhh I hate rain!
+Helicopter#H2(5): Ohhhh I hate rain!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+Baloon#B3(7): IT IS HOT TOO HOT TO FLY!
+JetPlane#J2(8): It is too sunny!
+Helicopter#H4(9): Ohhhh I think snow is what we need now!
+Baloon#B2(2): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J1(3): It is too sunny!
+Helicopter#H1(4): Ohhhh I think fog is just fine!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I hate rain!
+Baloon#B3(7): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J2(8): It is too sunny!
+Helicopter#H4(9): Ohhhh I think snow is what we need now!
+Helicopter#H4(9) landing. Coordinates{longitude=245, latitude=23, height=0}
 Tower says: Helicopter#H4(9) unregistered from weather tower.
-JetPlane#J1(3): Gamn fog!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
-JetPlane#J1(3): Gamn fog!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): Watch out for lightnings!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): We are going to freeze!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): Watch out for lightnings!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
-JetPlane#J1(3): We are going to freeze!
-Tower says: JetPlane#J1(3) unregistered from weather tower.
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): We are going to freeze!
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): Gamn fog!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): Watch out for lightnings!
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): This rain is so depressing...
-JetPlane#J2(8): Gamn fog!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): We are going to freeze!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): We are going to freeze!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H1(4): Ohhhh I like sun!
+Helicopter#H2(5): Ohhhh I think snow is what we need now!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+Baloon#B3(7): IT IS SNOWING WHAT SHOULD WE DO NOW?!
+JetPlane#J2(8): It is too foggy!
+Baloon#B2(2): IT IS SNOWING WHAT SHOULD WE DO NOW?!
+JetPlane#J1(3): It is too snowy!
+Helicopter#H1(4): Ohhhh I think snow is what we need now!
+Helicopter#H2(5): Ohhhh I hate rain!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+Baloon#B3(7): IT IS RAINING WATER WATER EVERYWHERE!
+Baloon#B3(7) landing. Coordinates{longitude=108, latitude=22, height=0}
+Tower says: Baloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): It is too foggy!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H1(4): Ohhhh I think snow is what we need now!
+Helicopter#H2(5): Ohhhh I think fog is just fine!
+Helicopter#H3(6): Ohhhh I like sun!
+JetPlane#J2(8): It is too snowy!
+Baloon#B2(2): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J1(3): It is too sunny!
+Helicopter#H1(4): Ohhhh I think snow is what we need now!
+Helicopter#H1(4) landing. Coordinates{longitude=711, latitude=33, height=0}
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): Ohhhh I think snow is what we need now!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+JetPlane#J2(8): It is too sunny!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too sunny!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I like sun!
+JetPlane#J2(8): It is too foggy!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too snowy!
+Helicopter#H2(5): Ohhhh I think snow is what we need now!
+Helicopter#H3(6): Ohhhh I like sun!
+JetPlane#J2(8): It is too foggy!
+Baloon#B2(2): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J1(3): It is too snowy!
+Helicopter#H2(5): Ohhhh I think snow is what we need now!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+JetPlane#J2(8): It is too sunny!
+Baloon#B2(2): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H2(5): Ohhhh I think fog is just fine!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+JetPlane#J2(8): It is too snowy!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too snowy!
+Helicopter#H2(5): Ohhhh I hate rain!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+JetPlane#J2(8): It is too foggy!
+Baloon#B2(2): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J1(3): It is too foggy!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+JetPlane#J2(8): It is too rainy!
+Baloon#B2(2): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J1(3): It is too sunny!
+Helicopter#H2(5): Ohhhh I think snow is what we need now!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+JetPlane#J2(8): It is too foggy!
+Baloon#B2(2): IT IS SNOWING WHAT SHOULD WE DO NOW?!
+JetPlane#J1(3): It is too foggy!
+Helicopter#H2(5): Ohhhh I hate rain!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+JetPlane#J2(8): It is too rainy!
+Baloon#B2(2): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J1(3): It is too rainy!
+Helicopter#H2(5): Ohhhh I hate rain!
+Helicopter#H3(6): Ohhhh I think fog is just fine!
+JetPlane#J2(8): It is too sunny!
+Baloon#B2(2): IT IS FOG I CANT SEE A METER AHEAD!
+JetPlane#J1(3): It is too sunny!
+Helicopter#H2(5): Ohhhh I like sun!
+Helicopter#H3(6): Ohhhh I think snow is what we need now!
+JetPlane#J2(8): It is too sunny!
+Baloon#B2(2): IT IS HOT TOO HOT TO FLY!
+JetPlane#J1(3): It is too sunny!
+Helicopter#H2(5): Ohhhh I think fog is just fine!
+Helicopter#H3(6): Ohhhh I like sun!
+JetPlane#J2(8): It is too rainy!
+Baloon#B2(2): IT IS RAINING WATER WATER EVERYWHERE!
+JetPlane#J1(3): It is too snowy!
+Helicopter#H2(5): Ohhhh I think snow is what we need now!
+Helicopter#H2(5) landing. Coordinates{longitude=151, latitude=33, height=0}
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): Ohhhh I hate rain!
+JetPlane#J2(8): It is too sunny!

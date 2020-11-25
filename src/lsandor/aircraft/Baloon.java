@@ -15,7 +15,6 @@ public class Baloon extends Aircraft implements Flyable {
     public void updateConditions() {
         String weatherType = weatherTower.getWeather(this.coordinates);
         String toFile = "";
-        String toFileUnreg = "";
         String resultStr = "Baloon#" + this.name + "(" + this.id + "): ";
 
         switch (weatherType) {
@@ -24,36 +23,37 @@ public class Baloon extends Aircraft implements Flyable {
                         coordinates.getLongitude(),
                         coordinates.getLatitude(),
                         coordinates.getHeight() - 5);
-                toFile = resultStr + "It's rain! It messed up my baloon!\n";
+                toFile = resultStr + "IT IS RAINING WATER WATER EVERYWHERE!\n";
                 break;
             case "SUN":
                 coordinates = new Coordinates(
                         coordinates.getLongitude() + 2,
                         coordinates.getLatitude(),
                         coordinates.getHeight() + 4);
-                toFile = resultStr + "There is some sun, let's enjoy good weather!\n";
+                toFile = resultStr + "IT IS HOT TOO HOT TO FLY!\n";
                 break;
             case "FOG":
                 coordinates = new Coordinates(
                         coordinates.getLongitude(),
                         coordinates.getLatitude(),
                         coordinates.getHeight() - 3);
-                toFile = resultStr + "I hate fog, I cannot see anything at all!\n";
+                toFile = resultStr + "IT IS FOG I CANT SEE A METER AHEAD!\n";
                 break;
             case "SNOW":
                 coordinates = new Coordinates(
                         coordinates.getLongitude(),
                         coordinates.getLatitude(),
                         coordinates.getHeight() - 15);
-                toFile = resultStr + "It's snowing! We should be more careful!\n";
+                toFile = resultStr + "IT IS SNOWING WHAT SHOULD WE DO NOW?!\n";
                 break;
         }
 
         weatherTower.writeToFile(toFile);
 
         if (this.coordinates.getHeight() <= 0) {
-            toFileUnreg = "Tower says: Baloon#" + this.name + "(" + this.id + ") unregistered from weather tower.\n";
-            weatherTower.writeToFile(toFileUnreg);
+            weatherTower.writeToFile("Baloon#" + this.name + "(" + this.id + ") landing. " + coordinates.toString() + "\n");
+            String unregister = "Tower says: Baloon#" + this.name + "(" + this.id + ") unregistered from weather tower.\n";
+            weatherTower.writeToFile(unregister);
             weatherTower.unregister(this);
         }
     }
