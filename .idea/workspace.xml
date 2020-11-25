@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1960efa3-5d40-444f-991e-dfb5dc83b192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lsandor/exception/WrongFileContentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cleanup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenario.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/Coordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lsandor/exception/WrongFileNameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/exception/EmptyFileContentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/Baloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/Baloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/Helicopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsandor/aircraft/JetPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/aircraft/JetPlane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lsandor/simulator/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/simulator/Simulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lsandor/tower/WeatherTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/tower/WeatherTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsandor/tower/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lsandor/tower/Tower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +54,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fyodor\Projects\avaj_g\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fyodor\Projects\avaj_g" />
+      <recent name="C:\Users\Fyodor\Projects\avaj_g\src\lsandor" />
       <recent name="C:\Users\Fyodor\Projects\avaj-launcher\src\good_scenarios_for_test" />
       <recent name="C:\Users\Fyodor\Projects\avaj-launcher\src\bad_scenarios_for_test" />
     </key>
@@ -74,13 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +116,22 @@
       <updated>1606241618066</updated>
       <workItem from="1606241619234" duration="7638000" />
       <workItem from="1606251819442" duration="3752000" />
+      <workItem from="1606306396309" duration="3877000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1044" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606311854948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1044" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1606311854948" />
+    <state x="1266" y="349" width="585" height="592" key="find.popup" timestamp="1606307057816">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1266" y="349" width="585" height="592" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606307057816" />
   </component>
   <component name="masterDetails">
     <states>

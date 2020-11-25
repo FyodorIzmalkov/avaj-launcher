@@ -37,23 +37,17 @@ public class Tower {
         observers.removeAll(unreg);
     }
 
-    public void writeToFile(String state, String text) {
+    public void writeToFile(String textToWrite) {
         try {
             this.file = new File("simulation.txt");
             this.writer = new FileWriter(file, true);
             this.file.createNewFile();
 
-            switch (state) {
-                case "write":
-                    try {
-                        writer.write(text);
-                        writer.flush();
-                    } catch (Exception e) {
-                        System.out.println("Error: Unable to write to file.");
-                    }
-                    break;
-            }
+            writer.write(textToWrite);
+            writer.flush();
         } catch (Exception e) {
+            System.out.println(e.getLocalizedMessage());
+            System.exit(1);
         }
     }
 
